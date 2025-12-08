@@ -18,7 +18,7 @@ Loyola University Maryland
 ### Projects
 
 #### Inventory Management System
-- ![Image](/inventory manager ss.png)
+![Image](/inventory manager ss.png)
 -  Initial project idea:
  I designed an inventory management system for a fictional business called Natalie’s Jewelry Boutique. I created a worksheet that could track jewelry items, their costs, and their profitability. Small business owners sometimes struggle with organizing and calculating profit margins. They also have trouble identifying their best and worst-performing items. This project makes it easier.
 
@@ -41,7 +41,7 @@ https://studentsloyola-my.sharepoint.com/:x:/g/personal/nsbertrand_loyola_edu/IQ
 
 ***
 #### Course Grade Evaluator
-- ![Image](/course grade evaluator .png)
+![Image](/course grade evaluator .png)
 - Initial Project Idea:
  I created a Course Grade Evaluator program using Python in JDoodle. I made an evaluator that lets students enter their own weight factors for quizzes and assessments. This helps students calculate unweighted and weighted averages and see what letter grade they would receive in the future.
 
@@ -63,8 +63,8 @@ https://www.jdoodle.com/ga/ySp4oXwiA8WaaD0fl04kkw%3D%3D
 
 ***
 #### Aporto Virtual Lab
-- ![Image](/transcript ss .png)
-- ![Image](Quiery 1 After Run.png)
+![Image](/transcript ss .png)
+![Image](Quiery 1 After Run.png)
 - Initial Project Idea:
 For this project, I created a student database in the Aporto Virtual Lab. It included students, their grades, courses, and semesters. I was able to learn how to organize data and create transcripts. The problem I tried to solve was learning how to connect different pieces of information using queries.
 

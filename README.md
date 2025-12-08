@@ -36,6 +36,7 @@ My workbook includes 15 jewelry items in categories such as rings, necklaces, br
 
 Summary:
 This project uses Excel to build an inventory for a jewelry boutique. It used formulas, functions, and logic to calculate profits, show trends, and show how specific items were performing.
+
 https://studentsloyola-my.sharepoint.com/:x:/g/personal/nsbertrand_loyola_edu/IQDXGmiqMJZuRLPd1s_9qQR8AUW-E3Zeiww0YCySZhsK4Ao?e=HNCliv
 
 ***

@@ -1,5 +1,6 @@
 # My-portfolio
 A portfolio highlighting my projects I've completed, the skills I'm building and my progress as i grow
+![](/banner ss.png)
 # Natalie Bertrand 
 
 ### About Me
@@ -12,8 +13,6 @@ My detail-oriented, motivated, innovative, and collaborative skill set, commitme
 ### Education
 **BSc in BioHealth**  
 Loyola University Maryland
-
-![](/banner ss.png)
 
 ### Projects
 

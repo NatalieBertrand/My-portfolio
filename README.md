@@ -13,3 +13,18 @@ My detail-oriented, motivated, innovative, and collaborative skill set, commitme
 **BSc in BioHealth**  
 Loyola University Maryland
 
+### Projects
+
+#### Project 1 Title
+- ![Image](link-to-image)
+- [Read the Report](link-to-report)
+
+***
+#### Project 2 Title
+- ![Image](link-to-image)
+- Write-up here
+
+***
+#### Project 3 Title
+- ![Image](link-to-image)
+- Write-up here

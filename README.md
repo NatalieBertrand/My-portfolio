@@ -12,7 +12,7 @@ My detail-oriented, motivated, innovative, and collaborative skill set, commitme
 ### Education
 **BSc in BioHealth**  
 Loyola University Maryland
-/banner ss.png
+!{}(/banner ss.png)
 ### Projects
 
 #### Inventory Management System

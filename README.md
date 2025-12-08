@@ -34,6 +34,7 @@ My workbook includes 15 jewelry items in categories such as rings, necklaces, br
 
 Summary:
 This project uses Excel to build an inventory for a jewelry boutique. It used formulas, functions, and logic to calculate profits, show trends, and show how specific items were performing.
+https://studentsloyola my.sharepoint.com/:x:/g/personal/nsbertrand_loyola_edu/IQDXGmiqMJZuRLPd1s_9qQR8AaVggzaZI-OoG0kOSTlPt9g?e=PT4c30
 
 ***
 #### Course Grade Evaluator
@@ -55,6 +56,7 @@ My final program was successful. It showed the quiz and assessment weights and c
 
 Summary:
 This project uses Python to create a Course Grade Evaluator that checks weight inputs, calculates averages, and determines letter grades.
+https://www.jdoodle.com/ga/ySp4oXwiA8WaaD0fl04kkw%3D%3D
 
 ***
 #### Aporto Virtual Lab

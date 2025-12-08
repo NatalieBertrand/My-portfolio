@@ -1,4 +1,4 @@
-![](/banner ss.png)
+![](/Screenshot 2025-12-07 194823.png)
 # My-portfolio
 A portfolio highlighting my projects I've completed, the skills I'm building and my progress as i grow
 
